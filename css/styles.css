@@ -86,10 +86,11 @@ header .profile-image {
   margin-top: 50px;
   width: 150px;
   height: 150px;
-  border-radius: 75%;
+  border-radius: 25%;
   border: 5px solid black;
   transition: all .7s;
 }
+
 header .profile-image:hover {
   transform: scale(1.6) rotate(20deg);
 }
